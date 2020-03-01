@@ -9,5 +9,8 @@
         <module name="workflow" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="workflow" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
